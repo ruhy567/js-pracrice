@@ -6,3 +6,6 @@ console.log (appleprice + orangeprice);
 console.log ( orangeprice);
 console.log ( orangeprice);
 
+//variable practicing
+const jahid = "ruhy";
+console.log(jahid);
